@@ -1,0 +1,1 @@
+${BAZ_LS_PROG:-ls} --color=auto -Fh
