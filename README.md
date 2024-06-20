@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/ls-aliases-baz-plugin>
 # Baz plugin: ls-aliases-baz-plugin
 
 > Baz plugin for making your ls better
